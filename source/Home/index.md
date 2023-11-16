@@ -10,14 +10,14 @@ date: 2023-09-02 10:15:38
 
 🍿Mon film français préféré est [Amélie](https://en.wikipedia.org/wiki/Am%C3%A9lie).
 📕Mon livre français préféré est [Le Petit Prince](https://en.wikipedia.org/wiki/I_Am_a_Cat).
-👩‍🎤Mon émission française préférée est [Circle](https://baike.baidu.com/item/%E6%9C%89%E7%82%B9%E5%BF%83%E6%9C%BA%E5 %8F%88%E5%A6%82%E4%BD%95/50863578).
+👩‍🎤Mon émission française préférée est [Circle](https://en.wikipedia.org/wiki/The_Circle_(French_TV_series)).
 🎤And My Favorite Japanese Idol is [Sophie Marceau](https://en.wikipedia.org/wiki/Sophie_Marceau)
 
 
-🍿Mon film français préféré est [Amélie](https://en.wikipedia.org/wiki/Am%C3%A9lie).
-📕Mon livre français préféré est [Le Petit Prince](https://en.wikipedia.org/wiki/I_Am_a_Cat).
-👩‍🎤Mon émission française préférée est [Circle](https://baike.baidu.com/item/%E6%9C%89%E7%82%B9%E5%BF%83%E6%9C%BA%E5 %8F%88%E5%A6%82%E4%BD%95/50863578).
-🎤And My Favorite Japanese Idol is [Sophie Marceau](https://en.wikipedia.org/wiki/Sophie_Marceau)
+🍿My favorite French film is [Amélie](https://en.wikipedia.org/wiki/Am%C3%A9lie) .
+📕My favorite French book is [Le Petit Prince](https://en.wikipedia.org/wiki/I_Am_a_Cat) .
+👩🎤 My favorite French program is [Circle](https://en.wikipedia.org/wiki/The_Circle_(French_TV_series)) .
+🎤 And My Favorite Japanese Idol [Sophie Marceau](https://en.wikipedia.org/wiki/Sophie_Marceau)
 ***
 </div>
 

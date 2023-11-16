@@ -10,10 +10,16 @@ date: 2023-09-02 10:15:38
 ## Preview （Avant-première）
 👋Bonjour,tout le monde.   
 🌐Ce site est [créé](#note) par moi, un étudiant universitaire 🎓 pour [enregistrer](#note) [l'apprentissage](#note) du japonais.
+
+🌊 L'intention initiale de commencer ce site Web du ministère était de sentir que les connaissances autour de moi étaient vraiment dispersées. Chaque fois que je voulais obtenir une réponse professionnelle, je devais passer beaucoup de temps à chercher de l'information, à juger et à filtrer la justesse de l'information, et à poursuivre mes recherches dans les vagues de l'information. Je n'ai pas vraiment et systématiquement formé mon propre système de connaissances, alors j'ai commencé ce voyage.
+
 ⚠️Ce site [ne devrait pas être](#note) utilisé à des fins commerciales.
 
 👋Hello everyone.  
 🌐This site is created by me,one university student 🎓to record the french learning. 
+
+🌊The initial intention of starting this department website was to feel that the knowledge around me was really scattered. Every time I wanted to obtain a professional answer, I had to spend a lot of time searching for information, judging and filtering the correctness of the information, and further searching through the waves of information. I did not truly and systematically form my own knowledge system, so I started this journey
+
 ⚠️This site shouldn't be used for business purpose.
 
 

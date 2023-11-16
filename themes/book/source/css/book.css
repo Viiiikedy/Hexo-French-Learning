@@ -6,11 +6,11 @@
 html {
   margin: 0;
   height: 100%;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 body {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 
 a {
@@ -919,7 +919,7 @@ h1 {
 /* 正文 */
 .book-content {
   font-family: "FR4";
-  font-size: larger;
+  font-size: large;
 }
 
 /* 右上角名字 */

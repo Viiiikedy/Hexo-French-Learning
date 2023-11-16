@@ -1,12 +1,12 @@
 
 # [Home](/Home/index.html)
 
-##### Grammar
+##### Word and Phraze
 
 - [Alphabet](/Word-Phraze/Alphabet.html)
 - [Basic-Verb](/Word-Phraze/Basic-Verb.html)
 
-##### Word and Phraze
+##### Grammar
 
 - [Chapter1](/Grammars/chapter1.html)
 - [Chapter2](/Grammars/chapter2.html)
@@ -18,6 +18,6 @@
 
 ##### Culture and Media
 
-- [Chapter1](/Culture-media/chapter1.html)
-- [Chapter2](/Culture-media/chapter2.html)
+- [Chapter1](/Culture-media/Book.html)
+- [Chapter2](/Culture-media/Movie.html)
 
